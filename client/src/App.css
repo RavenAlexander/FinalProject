@@ -1,0 +1,35 @@
+
+.btn-margin {
+  margin: 7px 3px;
+}
+
+body {
+  
+  background-image: url(../src/images/pattern2.jpg);
+  background-repeat: repeat;
+  background-size: 60%;
+  text-align: center;
+  align-content: center;
+}
+
+p {
+  font-size: 16px;
+}
+
+#carousel {
+  width: 500px;
+  margin: 0 0 10px 215px;
+}
+
+h1, h2, h3, h4 {
+  color: fuchsia;
+}
+
+a {
+  color: lightblue;
+}
+
+img {
+  padding: 10px;
+}
+

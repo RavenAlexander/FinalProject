@@ -1,0 +1,21 @@
+.jumbotron {
+  min-height: 320px;
+  padding-top: 10px;
+  background-image: url(../../images/swaglogo.png);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-position-y: 55%;
+  background-color: transparent;
+  align-content: center;
+}
+
+/* .jumbotron {
+  background-image: url(../images/blacklogo.png), url(../images/transsquare.png), url(../images/tart.jpg);
+  padding: 17rem 0 0 0;
+  margin: 0 0 0 0;
+  background-size: 22%, 13%, 100%;
+  background-repeat: no-repeat, repeat-x, no-repeat;
+  background-position-x: 85%, 0;
+  background-position-y: 70%, 70%, 30%;
+} */
